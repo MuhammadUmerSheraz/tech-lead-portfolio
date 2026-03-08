@@ -19,6 +19,11 @@ Senior Software Engineer / Technical Lead — 9+ years experience.
 | fastapi-high-performance-api | FastAPI High-Performance API | [GitHub](https://github.com/MuhammadUmerSheraz/fastapi-high-performance-api) |
 | devops-ci-cd-infrastructure | DevOps CI/CD Infrastructure | [GitHub](https://github.com/MuhammadUmerSheraz/devops-ci-cd-infrastructure) |
 
-## Portfolio
+## Contact
 
-[muhammadumersheraz.com](https://muhammadumersheraz.com/)
+**Muhammad Umer Sheraz** — Senior Software Engineer / Technical Lead
+
+- **Portfolio:** [muhammadumersheraz.com](https://muhammadumersheraz.com/)
+- **Email:** muhamadumersheraz@gmail.com
+- **Phone:** +923076450994
+- **LinkedIn:** [linkedin.com/in/muhammad-umer-sheraz](https://www.linkedin.com/in/muhammad-umer-sheraz/)
